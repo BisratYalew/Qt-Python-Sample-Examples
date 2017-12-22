@@ -1,0 +1,4 @@
+simple QComboBox
+custom the icon and user data of item of QComboBox
+
+find/locate item of QComboBox by typing keyword

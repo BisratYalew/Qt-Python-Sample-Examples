@@ -1,0 +1,15 @@
+*.pyc
+*.pyo
+build/
+dist/
+.idea/
+.DS_Store
+.ropeproject
+BUGS.txt
+TODO.txt
+resource_compiler/*.qrc
+html_render/
+qcommons/foo/
+windows/foo/
+.zw_*
+qcommons
